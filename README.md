@@ -1,8 +1,14 @@
+<div align="center" >
+  <a href="https://rojin025.github.io/index.html">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzV1eWEyZzhsZG1xZDBrMXc0NGF1enFpYndzY2lsczRmY3RlbGpmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/peFYsGgZhwfygxX3YX/giphy.gif" alt="MasterHead">
+  </a>
+</div>
+
 <h1 align="center">Hello World, I'm Rojin :)</h1>
 <h3 align="center">Passionate Software Engineer.</h3>
 
 <img
-  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXI2MG52MG00bHUzajM0MGgxdnM3N2ZtbDdnYmh3MHlrYzlvbWowdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.webp"
+src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXI2MG52MG00bHUzajM0MGgxdnM3N2ZtbDdnYmh3MHlrYzlvbWowdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.webp"
   align="right"
   alt="“Thinking"
   width="400"
