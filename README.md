@@ -1,10 +1,12 @@
-<div align="center" >
-  <a href="https://rojin025.github.io/index.html">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzV1eWEyZzhsZG1xZDBrMXc0NGF1enFpYndzY2lsczRmY3RlbGpmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/peFYsGgZhwfygxX3YX/giphy.gif" alt="MasterHead">
+<div align="center " >
+  <a href="https://rojin025.github.io/index.html" style="display: inline-block; width: 150%;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGU1Y21lMHZyMWI3cGlnNTBld2dkeW5zcWs4Y2h4azdpNWozcnZ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VAbx9m5WkMWzzX1LwT/giphy.gif" alt="MasterHead" style="width: 100%; height: auto;">
   </a>
 </div>
 
-<h1 align="center">Hello World, I'm Rojin :)</h1>
+
+
+<h1 align="center">Hello, I'm Rojin.</h1>
 <h3 align="center">Passionate Software Engineer.</h3>
 
 <img
