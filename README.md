@@ -1,14 +1,35 @@
 <div align="center " >
-  <a href="https://rojin025.github.io/index.html" style="display: inline-block; width: 150%;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGU1Y21lMHZyMWI3cGlnNTBld2dkeW5zcWs4Y2h4azdpNWozcnZ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VAbx9m5WkMWzzX1LwT/giphy.gif" alt="MasterHead" style="width: 100%; height: auto;">
+  <a href="https://rojin025.github.io/portfolio/" style="display: inline-block; width: 150%;">
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/35796647/399591172-e57fe031-ef3d-474b-8f38-ae9d31e68ae4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250101T224642Z&X-Amz-Expires=300&X-Amz-Signature=0d9ed8d7820ea9a2ffee0faad590aeab867d4e48f08ed3993d287c4806b3a1a2&X-Amz-SignedHeaders=host" alt="MasterHead" style="width: 100%; height: auto;">
+<!--     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGU1Y21lMHZyMWI3cGlnNTBld2dkeW5zcWs4Y2h4azdpNWozcnZ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VAbx9m5WkMWzzX1LwT/giphy.gif" alt="MasterHead" style="width: 100%; height: auto;"> -->
   </a>
+
 </div>
 
 
 
-<h1 align="center">Hello, I'm Rojin.</h1>
-<h3 align="center">Passionate Software Engineer.</h3>
+<hr style="height: 1px;">
 
+<i> " Hello World! 🌎 I am a software engineer who enjoy solving problems and finding agile solutions. 🧩 I excel at learning complex concepts through diagrams and interactive examples. 💡 I am always eager to learn. 🚀 I focus on action and results with an effective approach. ✅ "
+</i>
+<p align="left">
+- Happy Coding :)
+</p>
+<h4 align="left">Connect with me:</h4>
+<p align="left">
+  <a
+    href="https://www.linkedin.com/in/rojin-bijukchhe-a6649a131/"
+    target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="rojin bijukchhe"
+      height="30"
+      width="40"
+  /></a>
+</p>
+
+<!--     
 <img
 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXI2MG52MG00bHUzajM0MGgxdnM3N2ZtbDdnYmh3MHlrYzlvbWowdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.webp"
   align="right"
@@ -16,8 +37,6 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXI2MG52MG00bHUzajM0MGgxd
   width="400"
 />
 
-- 💬 Ask me about **React, NodeJS and Angular.** - ⚡ Fun fact **Happy Coding
-;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -200,8 +219,8 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXI2MG52MG00bHUzajM0MGgxd
     </a>
   </p>
 </div>
+ -->
 
-<div>
   <div>
     <img
       align="left"
@@ -210,19 +229,13 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXI2MG52MG00bHUzajM0MGgxd
     />
   </div>
 
-  <div>
-    &nbsp;<img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=rojin025&show_icons=true&locale=en"
-      alt="rojin025"
-    />
-  </div>
+ 
 
-  <div1>
+
+  <div>
     <img
       align="center"
       src="https://github-readme-streak-stats.herokuapp.com/?user=rojin025&"
       alt="rojin025"
     />
-  </div1>
-</div>
+  </div>
