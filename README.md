@@ -10,10 +10,10 @@
 
 <hr style="height: 1px;">
 
-<i> " Hello World! 🌎 I am a software engineer who enjoy solving problems and finding agile solutions. 🧩 I excel at learning complex concepts through diagrams and interactive examples. 💡 I am always eager to learn. 🚀 I focus on action and results with an effective approach. ✅ "
-</i>
+<p> " Hello World! 🌎 I am Rojin, a software engineer who enjoy's solving problems and finding agile solutions. 🧩 I excel at learning complex concepts through diagrams and interactive examples. 💡 I am always eager to learn. 🚀 I focus on action and results with an effective approach. ✅ "
+</p>
 <p align="left">
-- Happy Coding :)
+<i>Happy Coding :)</i>
 </p>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
