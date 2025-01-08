@@ -1,7 +1,6 @@
 <div align="center " >
   <a href="https://rojin025.github.io/portfolio/" style="display: inline-block; width: 150%;">
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/35796647/399591172-e57fe031-ef3d-474b-8f38-ae9d31e68ae4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250101T224642Z&X-Amz-Expires=300&X-Amz-Signature=0d9ed8d7820ea9a2ffee0faad590aeab867d4e48f08ed3993d287c4806b3a1a2&X-Amz-SignedHeaders=host" alt="MasterHead" style="width: 100%; height: auto;">
-<!--     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGU1Y21lMHZyMWI3cGlnNTBld2dkeW5zcWs4Y2h4azdpNWozcnZ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VAbx9m5WkMWzzX1LwT/giphy.gif" alt="MasterHead" style="width: 100%; height: auto;"> -->
+    <img src="https://raw.githubusercontent.com/rojin025/rojin025/main/portfolio.png" alt="MasterHead" style="width: 100%; height: auto;">
   </a>
 
 </div>
