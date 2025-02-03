@@ -1,9 +1,9 @@
-<div align="center " >
+<!-- <div align="center " >
   <a href="https://rojin025.github.io/portfolio/" style="display: inline-block; width: 150%;">
     <img src="https://raw.githubusercontent.com/rojin025/rojin025/main/portfolio.png" alt="MasterHead" style="width: 100%; height: auto;">
   </a>
 
-</div>
+</div> -->
 <div align="center " >
   <a href="https://rojin025.github.io/portfolio/" style="display: inline-block; width: 150%;">
     <img src="https://raw.githubusercontent.com/rojin025/rojin025/main/profile.gif" alt="MasterHead" style="width: 100%; height: auto;">
